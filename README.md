@@ -1,1 +1,2 @@
-# odin-recipes
+Project practising HTML. 
+The goal is to create a few recipe pages linked to an index page using HTML only. It will involve practise using HTML and Git. This project will be revisited at a later date to implement CSS features.
